@@ -1,3 +1,5 @@
+Removing "Questions Mark" from filename, On windows OS, filenames can't have question marks.
+
 dcm4che DICOM Toolkit & Library
 =========================
 Sources: https://github.com/dcm4che/dcm4che  
